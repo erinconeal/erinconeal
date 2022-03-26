@@ -5,6 +5,8 @@
 - 💬 Ask me about **Vue.js, accessibility, UX** 
 - 📫 How to reach me: **erinconeal@outlook.com**
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,md,react,sass,svg,tailwind,ts,vscode,vue)](https://skillicons.dev)
+
 <!--
 **erinconeal/erinconeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
