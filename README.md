@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Erin
 
-- 🔭 I’m currently working on **enterprise Vue.js apps**
-- 🌱 I’m currently learning **Typescript and React**
-- 💬 Ask me about **Vue.js, accessibility, UX** 
-- 📫 How to reach me: **erinconeal@outlook.com**
+- 🔭 I’m currently working on **creating and updating various client websites**
+- 🌱 I’m currently learning **Typescript**
+- 💬 Ask me about **modern JavaScript frameworks, accessibility, UX** 
+- 📫 How to reach me: **[erinconeal@outlook.com](erinconeal@outlook.com)**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,md,react,sass,svg,tailwind,ts,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,git,react,vue,jquery,jest,webpack,gulp,bootstrap,md,svg,tailwind,ts,vscode,figma)](https://skillicons.dev)
 
 <!--
 **erinconeal/erinconeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
